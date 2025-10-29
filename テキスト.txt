@@ -1,2 +1,4 @@
 gitの変更履歴　テスト
 基本的なワークフローを学びます
+・git add
+・git commit
