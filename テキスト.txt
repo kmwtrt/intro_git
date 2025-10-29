@@ -3,3 +3,4 @@ gitの変更履歴　テスト
 ・git add
 ・git commit
 ・git status
+・git diff
